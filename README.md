@@ -15,13 +15,13 @@
 #  GitHub Stats:
 <div class="badges-githubstats">
   <div  align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RohitMangale&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="Rohit's Stats" height="200"  >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMangale&theme=react&hide_border=true" alt="Rohit's Stats" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=RohitMangale&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="Rohit's Stats" height="165" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMangale&theme=react&hide_border=true" alt="Rohit's Stats" height="165" >
   </div>    
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMangale&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Rohit's Stats" height="266">
-    <img src="https://github-contributor-stats.vercel.app/api?username=RohitMangale&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true" alt="Rohit's Contributions" height="266">     
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMangale&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Rohit's Stats" height="220">
+    <img src="https://github-contributor-stats.vercel.app/api?username=RohitMangale&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true" alt="Rohit's Contributions" height="220">     
   </div>
 <!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMangale&bg_color=303030&color=e0e0e0&line=545454&point=00d1e0&area=true&hide_border=true" alt="rohit's Stats" height="auto"> -->
 </div>
