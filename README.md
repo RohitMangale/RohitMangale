@@ -42,10 +42,10 @@
 #  GitHub Contributions:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMangale&theme=react-dark&hide_border=true" alt="rohit's Stats" height="auto">
 
-#  DSA Contributions:
- <div align="center">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohitmangale_01&theme=radical" alt="Rohit's Stats" height="260">
-    <img src="https://leetcard.jacoblin.cool/rohitmangale010?ext=heatmap&border-=0" alt="Rohit's Stats" height="260">
+<!-- #  DSA Contributions: -->
+<!-- <div align="center"> -->
+<!--     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohitmangale_01&theme=radical" alt="Rohit's Stats" height="260"> -->
+<!--     <img src="https://leetcard.jacoblin.cool/rohitmangale010?ext=heatmap&border-=0" alt="Rohit's Stats" height="260"> -->
    
-  </div>
+ <!--  </div> -->
 
