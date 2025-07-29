@@ -29,7 +29,7 @@
 
 
 #  GitHub Stats:
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rohitmangale/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RohitMangale/langs)](https://githubtrends.io)
 <!-- 
 <div class="badges-githubstats">
   <div  align="center">
@@ -40,14 +40,17 @@
   
   <div align="center">
     -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMangale&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Rohit's Stats" height="220"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMangale&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Rohit's Stats" height="220"> 
   </div>
-<!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMangale&bg_color=303030&color=e0e0e0&line=545454&point=00d1e0&area=true&hide_border=true" alt="rohit's Stats" height="auto"> -->
 </div>
+-->
 
 
+<!--  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMangale&bg_color=303030&color=e0e0e0&line=545454&point=00d1e0&area=true&hide_border=true" alt="rohit's Stats" height="auto"> 
 #  GitHub Contributions:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMangale&theme=react-dark&hide_border=true" alt="rohit's Stats" height="auto">
+-->
 
 <!-- #  DSA Contributions: -->
 <!-- <div align="center"> -->
