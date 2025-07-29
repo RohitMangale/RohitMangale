@@ -28,10 +28,13 @@
 
 
 
-#  GitHub Stats:
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RohitMangale/langs)](https://githubtrends.io)
 <!-- 
+#  GitHub Stats:
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RohitMangale/repos?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
+
+
 <div class="badges-githubstats">
+<img width="1901" height="2562" alt="github-wrapped" src="https://github.com/user-attachments/assets/81755bf3-7255-49d1-8f0b-0b0f73f34582" />
   <div  align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RohitMangale&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="Rohit's Stats" height="165" > 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMangale&theme=react&hide_border=true" alt="Rohit's Stats" height="220" >
